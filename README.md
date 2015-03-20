@@ -1,2 +1,3 @@
 # hello-world
-my first GitHub project
+This my first GitHub project
+My name is penghaibo from Baidu Inc.
